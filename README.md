@@ -1,4 +1,5 @@
-====== GIT instruction to follow ==============\n
+====== GIT instruction to follow ==============
+
 ====== Don't do the below stuff, if you are not comfortable with git==========
 
 
